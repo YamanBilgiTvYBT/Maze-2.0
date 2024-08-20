@@ -1,0 +1,6 @@
+Right Arrow Button: Turn Right
+Left Arrow Button: Turn Left
+Up Arrow Button: Go Forward
+Down Arrow Button: Go Back
+Escape Button: Close The Game
+Can run in all windows versions(Windows 95 and more)!
